@@ -38,7 +38,7 @@
 						<username>al0159330</username>
 						<password>Akshay@123</password>
 						<applicationName>adhar-ci-cd</applicationName>
-						<environment>Sandbox</environment>
+						<environment>Design</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
